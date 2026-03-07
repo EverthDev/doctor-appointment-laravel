@@ -20,6 +20,7 @@ class DatabaseSeeder extends Seeder
             UserSeeder::class,
             BloodTypeSeeder::class,
             SpecialitySeeder::class,
+            SupportSeeder::class,
         ]);
 
     }
